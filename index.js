@@ -1102,7 +1102,7 @@ console.log(animals);
 // }else{
 //   console.log('No such data found');
 // }
-
+//done
 // 5️⃣ Array Subsection 4 👉 Map and Reduce Method
 
 // Array.prototype.map() 🙋‍♂️
